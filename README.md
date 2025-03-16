@@ -13,6 +13,8 @@ This project provides an open solution for 3D campus navigation/browsing, integr
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 ![Version](https://img.shields.io/badge/Version-1.0.0-blue)
 
+![SchoolView](images/SchoolView_01.png)
+
 ## 📋 项目阶段概览
 ### 1. 数据采集阶段
 #### 设备配置（设备有限）
@@ -55,6 +57,8 @@ flowchart TD
     style C fill:#f9d5e5,stroke:#c81d77
     style D fill:#e3eaa7,stroke:#86af49
 ```
+
+![RealityCapture_View](images/RealityCapture_01.png)
 
 #### 模型参数
 | 指标               | 标准值              |
@@ -183,11 +187,14 @@ gantt
     title 技术发展路线图
     dateFormat  YYYY-MM
     section 核心功能
-    三维建模       :done,    des1, 2023-01, 2023-06
-    导航系统       :active,  des2, 2023-07, 2023-12
+    三维建模       :done,    des1, 2024-10, 2024-12
+    导航系统       :active,  des2, 2024-11, 2025-05
     section 扩展功能
-    AR导航        :         des3, 2024-01, 2024-03
-    数字孪生      :         des4, 2024-04, 2024-06
+    AR导航        :         des3, 2025-04, 2025-08
+    数字孪生      :         des4, 2025-08, 2025-12
+    section 现实应用
+    新生测试      :         des5, 2025-08, 2025-10
+    正式应用      :         des6, 2025-12, 2026-02
 ```
 
 ---
