@@ -60,8 +60,12 @@ flowchart TD
     style C fill:#f9d5e5,stroke:#c81d77
     style D fill:#e3eaa7,stroke:#86af49
 ```
-
-![RealityCapture_View](images/RealityCapture_01.png)
+##### 点云生成
+![RealityCapture_View1](images/点云.png)
+##### 网格生成（模型生成）
+![RealityCapture_View2](images/白模.png)
+##### 纹理映射
+![RealityCapture_View3](images/成品.png)
 
 #### 模型参数
 | 指标               | 标准值              |
